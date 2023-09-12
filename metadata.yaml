@@ -1,0 +1,32 @@
+_repo: Whittier-at-close-range_71596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sparhawk, Frances C.
+    aliases:
+    - Sparhawk, Frances Campbell
+    - Campbell, Frances
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '56276'
+    url: http://www.gutenberg.org/2009/agents/56276
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Campbell_Sparhawk
+description: ''
+gutenberg_issued: '2023-09-09'
+identifiers:
+  gutenberg: '71596'
+language: en
+pgterms:marc904: https://archive.org/details/whittieratcloser0000spar/page/n197/mode/2up
+pgterms:marc905: 20230221131743sparhawk
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bThe Riverdale Press, Brookline, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Whittier at close range
+url: http://www.gutenberg.org/ebooks/71596
