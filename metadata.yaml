@@ -1,5 +1,8 @@
 _repo: Whittier-at-close-range_71596
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71596-h/images/cover.jpg
 creator:
   author:
     agent_name: Sparhawk, Frances C.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56276
     wikipedia: https://en.wikipedia.org/wiki/Frances_Campbell_Sparhawk
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71596#Whittier-at-close-range
 gutenberg_issued: '2023-09-09'
 identifiers:
   gutenberg: '71596'
